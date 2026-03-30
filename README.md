@@ -78,3 +78,11 @@ REMEMBER FOLDER NAME
 **Install:**
 ```bash
 pip install cryptography
+
+
+## 📜 License
+
+MIT License - Free for personal and educational use.
+
+This tool is for protecting YOUR OWN files.
+Not intended for unauthorized access or malicious purposes.
